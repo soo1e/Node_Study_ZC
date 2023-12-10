@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="114eac92-fcd1-44b8-9f4a-d94644f6a871" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.2/helloWorld.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.3/dep-run.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.3/dep1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.3/dep2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.3/dynamic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.3/dynamic.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.3/ex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.3/filename.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.3/filename.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.3/func.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.3/func.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.3/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.3/index.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.3/require.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.3/this.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.3/var.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.3/var.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.4/cachRequire1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.4/cache.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.4/cacheRequire2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.4/cacheTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.4/console.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.4/exit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.4/globalA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.4/globalB.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.4/nextTick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.4/timer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.4/timerPromise.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.5/cipher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.5/dns.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.5/exec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.5/hash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.5/os.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.5/path.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.5/pbkdf2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.5/prime-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.5/prime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.5/searchParams.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.5/spawn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.5/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.5/url.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.5/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.5/worker_data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.5/worker_threads.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/asyncOrder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/asyncOrderPromise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/buffer-memory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/buffer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/copyFile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/copyFilePromise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/createBigFile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/createReadStream.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/createWriteStream.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/fsCreate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/fsCreatePromise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/fsDelete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/fsDeletePromise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/gzip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/pipe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/pipeline.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/pipelineAbort.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/readFile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/readFilePromise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/readme2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/readme3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/readme4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/readme4.txt.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/stream-memory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/sync.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/target.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/threadpool.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/watch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/writeFile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.6/writeFilePromise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.7/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.8/error0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.8/error1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.8/error2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.8/error3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3/3.8/error4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Node.js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ZKw3JOZ1fDHxvewogAAPEJG1kF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/Users/chaesuwon/PROGRAMMER/ZeroCho/Node.js/Ch.3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "Errors",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ch.3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.ex.js">
+    <configuration name="ex.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Ch.3/3.3/ex.js" working-dir="$PROJECT_DIR$/Ch.3/3.3">
+      <method v="2" />
+    </configuration>
+    <configuration name="helloWorld.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Ch.3/3.2/helloWorld.js" working-dir="$PROJECT_DIR$/Ch.3/3.2">
+      <method v="2" />
+    </configuration>
+    <configuration name="require.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Ch.3/3.3/require.js" working-dir="$PROJECT_DIR$/Ch.3/3.3">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.ex.js" />
+        <item itemvalue="Node.js.require.js" />
+        <item itemvalue="Node.js.helloWorld.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="114eac92-fcd1-44b8-9f4a-d94644f6a871" name="변경" comment="" />
+      <created>1702183879239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702183879239</updated>
+      <workItem from="1702183880289" duration="3369000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
