@@ -4,9 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="114eac92-fcd1-44b8-9f4a-d94644f6a871" name="변경" comment="ch 4">
+    <list default="true" id="114eac92-fcd1-44b8-9f4a-d94644f6a871" name="변경" comment="ch 6">
+      <change afterPath="$PROJECT_DIR$/Ch.6/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.2/learn-express/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.2/learn-express/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.2/learn-express/multipart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.2/learn-express/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.2/learn-express/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.3/learn-express/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.3/learn-express/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.3/learn-express/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.3/learn-express/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.3/learn-express/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.3/learn-express/routes/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.1/learn-express/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.1/learn-express/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.1/learn-express/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.1/learn-express/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.1/learn-express/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.1/learn-express/routes/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.1/learn-express/views/error.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.1/learn-express/views/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.1/learn-express/views/layout.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.2/learn-express/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.2/learn-express/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.2/learn-express/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.2/learn-express/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.2/learn-express/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.2/learn-express/routes/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.2/learn-express/views/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.2/learn-express/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.2/learn-express/views/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.3/learn-express/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.3/learn-express/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.3/learn-express/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.3/learn-express/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.3/learn-express/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.3/learn-express/routes/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.3/learn-express/views/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.3/learn-express/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.6/6.5.3/learn-express/views/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +61,16 @@
       <list>
         <option value="package.json" />
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ZKw3JOZ1fDHxvewogAAPEJG1kF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -46,7 +89,7 @@
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/chaesuwon/PROGRAMMER/ZeroCho/Node.js/Ch.4&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/chaesuwon/PROGRAMMER/ZeroCho/Node.js/Ch.8&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -63,6 +106,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ch.8" />
+      <recent name="$PROJECT_DIR$/Ch.7" />
+      <recent name="$PROJECT_DIR$/Ch.6" />
       <recent name="$PROJECT_DIR$/Ch.4" />
       <recent name="$PROJECT_DIR$/Ch.3" />
     </key>
@@ -124,6 +170,15 @@
       <workItem from="1702362644322" duration="683000" />
       <workItem from="1702369523118" duration="2000" />
       <workItem from="1702462391018" duration="64000" />
+      <workItem from="1702462481841" duration="726000" />
+      <workItem from="1702975204206" duration="167000" />
+      <workItem from="1702975378610" duration="224000" />
+      <workItem from="1702975969198" duration="1618000" />
+      <workItem from="1703057871865" duration="3603000" />
+      <workItem from="1703221792401" duration="2261000" />
+      <workItem from="1703998459226" duration="2055000" />
+      <workItem from="1704001504052" duration="586000" />
+      <workItem from="1704090835158" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="ch 3">
       <created>1702190283932</created>
@@ -139,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702359836525</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ch 5">
+      <created>1702462608760</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702462608760</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +211,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ch 3" />
     <MESSAGE value="ch 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="ch 4" />
+    <MESSAGE value="ch 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch 5" />
   </component>
 </project>
